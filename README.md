@@ -94,6 +94,10 @@ The core logic executes the RAG pipeline using only SQL and the Snowflake Python
 ```
 ```
 
+
+## 🤝 Screenshots
+
+
 <img width="1612" height="608" alt="Screenshot 2025-10-08 004952" src="https://github.com/user-attachments/assets/2ca8615d-f8f9-4184-bd58-d3b62026ebda" />
 
 
