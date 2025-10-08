@@ -1,8 +1,4 @@
-Since your Streamlit application is running a specific RAG workflow entirely within Snowflake, the README should focus on the **integration** and the **Snowflake requirements**, rather than just general Python dependencies.
 
-Here is a complete `README.md` code for your Retail Knowledge Base Assistant.
-
-````markdown
 # 🧠 Retail Knowledge Base Assistant
 
 This Streamlit application demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline built entirely within the **Snowflake AI Data Cloud**, leveraging **Snowflake Cortex Search** for retrieval and the **Snowflake Arctic LLM** for generating grounded answers.
